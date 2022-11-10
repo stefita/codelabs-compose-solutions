@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basics Codelab</string>
+
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra cursus posuere. Aliquam eget suscipit lectus. Praesent porta molestie magna, iaculis tristique urna venenatis vitae. Pellentesque et elit sem. Nam orci tortor, auctor quis odio sit amet, cursus eleifend leo. Donec sit amet ex lectus. Morbi consectetur aliquam augue in placerat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas fringilla rhoncus tellus, nec posuere urna fermentum eget. Vestibulum eu magna erat.</string>
+</resources>
